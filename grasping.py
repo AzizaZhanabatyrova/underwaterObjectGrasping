@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# This file is using trained model to classify objects and to perform grasping of the object
+
 from geometry_msgs.msg import TwistStamped
 import termios, fcntl, sys, os
 import rospy
