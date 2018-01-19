@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# This file takes the file with already encoded data and removes repeating data
+
 import csv
 import numpy as np
 from sklearn.model_selection import KFold
