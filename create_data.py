@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# This file is used to teleoperate the vehicle, and calculate the mathematical descriptors for every image, which will be used as an input to a neural network to classify objects.
+
 from geometry_msgs.msg import TwistStamped
 import termios, fcntl, sys, os
 import rospy
