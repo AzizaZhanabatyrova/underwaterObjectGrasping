@@ -76,10 +76,10 @@
     <file>data/scenes/g500ARM5.urdf</file>
     <jointValues>
       <joint> 0 </joint>
-      <joint> 0</joint>
-      <joint> 2.2 </joint>
+      <joint> 1.06 </joint>
       <joint> 0 </joint>
-      <joint>0.3 </joint>
+      <joint> 1.57 </joint>
+      <joint>1.57 </joint>
     </jointValues>
     <position>
       <x> 1.4</x>
@@ -130,10 +130,10 @@
     <file>data/scenes/g500ARM5.urdf</file>
     <jointValues>
       <joint> 0 </joint>
-      <joint> 0</joint>
-      <joint> 2.2 </joint>
+      <joint> 1.06 </joint>
       <joint> 0 </joint>
-      <joint>0.3 </joint>
+      <joint> 1.57 </joint>
+      <joint>1.57 </joint>
     </jointValues>
     <position>
       <x> 1.4</x>
@@ -672,4 +672,3 @@
   </rosInterfaces>
 
 </UWSimScene>
-
