@@ -6,3 +6,5 @@ uwsim_ws/src/underwater_simulation/uwsim/data/pipeFollowing_basic.xml
 uwsim_ws/src/underwater_simulation/uwsim/data/objects
 
 The other files can be under any directory
+
+See the report for more details
